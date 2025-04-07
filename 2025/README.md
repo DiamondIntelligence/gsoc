@@ -260,3 +260,45 @@ The goal of this project is to elevate the open-source Keploy Playground for the
 | Denoise Unexpected Parameters in Keploy Testcases | https://github.com/keploy/keploy/issues/2527  |
 | Implement Idempotency Check for GET Requests | https://github.com/keploy/keploy/issues/2526  |
 | SON Diff viewer re-alignment to top | https://github.com/keploy/keploy/issues/2524 |
+Name: Justice Erika
+User name: DiamondIntelligence
+Email: ikechukwudiamond29@gmail.com
+
+*Proposal: Contribution to Keploy: Unit, API Test Generation Agent using AI & EBPF*
+
+*Introduction*
+
+I am excited to submit this proposal to contribute to Keploy, an innovative open-source toolkit for generating unit tests and API tests using AI and EBPF. As a passionate developer, I believe that Keploy has the potential to revolutionize the way we approach testing, and I am eager to be a part of this project.
+
+*Background*
+
+Keploy's unique approach to test generation using AI and EBPF has garnered significant attention in the developer community. The project's goal of simplifying end-to-end and unit testing for developers aligns with my own interests and expertise. I am impressed by Keploy's capabilities, including its ability to create test cases, data mocks, and stubs from API calls and DB queries.
+
+*Contribution Objectives*
+
+As a contributor to Keploy, my primary objectives are:
+
+1. *Enhance Test Generation Capabilities*: I aim to improve Keploy's test generation algorithms to increase the accuracy and efficiency of test case creation.
+2. *Expand Support for Additional Frameworks and Libraries*: I plan to extend Keploy's compatibility with popular frameworks and libraries, making it a more versatile tool for developers.
+3. *Improve Documentation and User Experience*: I will focus on creating comprehensive documentation, tutorials, and guides to ensure that users can easily get started with Keploy and maximize its benefits.
+
+*Methodology*
+
+To achieve the objectives outlined above, I propose the following approach:
+
+1. *Collaborate with the Keploy Team*: I will work closely with the Keploy maintainers and other contributors to ensure that my contributions align with the project's vision and goals.
+2. *Conduct Thorough Research and Analysis*: I will research existing testing frameworks, libraries, and tools to identify areas where Keploy can improve and expand its capabilities.
+3. *Develop and Refine Code*: I will write high-quality, well-tested code to implement the enhancements and expansions outlined in my objectives.
+4. *Engage with the Community*: I will participate in online forums, discussions, and meetups to gather feedback, provide support, and promote Keploy's adoption.
+
+*Timeline and Deliverables*
+
+I propose a 90 days contribution period, during which I will deliver the following:
+
+1. *Enhanced Test Generation Capabilities*: Improved test generation algorithms and increased accuracy.
+2. *Expanded Framework and Library Support*: Added support for existing testing frameworks, libraries, and tools.
+3. *Improved Documentation and User Experience*: Comprehensive documentation, tutorials, and guides.
+
+*Conclusion*
+
+I am excited about the opportunity to contribute to Keploy and help shape the future of testing for developers. With my skills, experience, and passion for innovation, I am confident that I can make a meaningful impact on this project. I look forward to collaborating with the Keploy team and community to bring this proposal to life.
